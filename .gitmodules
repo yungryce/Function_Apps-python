@@ -1,0 +1,9 @@
+[submodule "StartStopVM"]
+	path = StartStopVM
+	url = git@github.com:yungryce/StartStopVM-python-functions.git
+[submodule "ImageApp"]
+	path = ImageApp
+	url = git@github.com:yungryce/imageProcessor-python-functions.git
+[submodule "EmailApp"]
+	path = EmailApp
+	url = git@github.com:yungryce/Email_FA.git
