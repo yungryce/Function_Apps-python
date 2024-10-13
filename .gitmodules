@@ -10,3 +10,6 @@
 [submodule "recaptcha_FA"]
 	path = recaptcha_FA
 	url = git@github.com:yungryce/recaptcha_FA.git
+[submodule "Auth"]
+	path = Auth
+	url = git@github.com:yungryce/authentication-FA.git
